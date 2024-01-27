@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Oshi Sofi",
+        "description": "Oshi Sofi is a festive rice dish cooked with meat, vegetables, and spices. It's often prepared for weddings and special occasions, featuring colorful layers of rice and savory ingredients.",
+        "price": 25.99,
+        "included_drinks": [
+            "Green Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Norin",
+        "description": "Norin is a cold noodle dish made with thin slices of boiled beef or horse meat, mixed with onions and spices. It's commonly enjoyed as a refreshing summer meal.",
+        "price": 17.50,
+        "included_drinks": [
+            "Kumis",
+            "Chal"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tandyr Kabob",
+        "description": "Tandyr Kabob is a type of kebab cooked in a clay oven called a tandyr. It features marinated chunks of meat, typically lamb or beef, skewered and cooked over hot coals.",
+        "price": 22.75,
+        "included_drinks": [
+            "Black Tea",
+            "Lemonade"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Kazan Kabob",
+        "description": "Kazan Kabob is a dish where marinated meat, usually lamb, is cooked in a large cast-iron cauldron called a kazan. It's slow-cooked over low heat, resulting in tender and flavorful meat.",
+        "price": 20.99,
+        "included_drinks": [
+            "Sour Cherry Juice",
+            "Mineral Water"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Fried Eggplant with Garlic Sauce",
+        "description": "Fried Eggplant with Garlic Sauce is a popular Uzbek appetizer made by frying eggplant slices until golden brown and serving them with a savory garlic sauce.",
+        "price": 10.99,
+        "included_drinks": [
+            "Ayran",
+            "Mint Tea"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Uzbek Salad",
+        "description": "Uzbek Salad is a refreshing salad made with tomatoes, cucumbers, onions, and fresh herbs like cilantro and parsley. It's often dressed with vinegar, oil, and spices.",
+        "price": 8.99,
+        "included_drinks": [
+            "Black Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Kovurma Lagman",
+        "description": "Kovurma Lagman is a variation of the traditional Lagman dish where the noodles are stir-fried with meat, vegetables, and spices until flavorful and slightly crispy.",
+        "price": 18.50,
+        "included_drinks": [
+            "Sour Cherry Juice",
+            "Mineral Water"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Tukhum Barak",
+        "description": "Tukhum Barak is a sweet pastry filled with ground nuts, sugar, and spices. It's often served during festivals and celebrations as a special treat.",
+        "price": 6.99,
+        "included_drinks": [
+            "Green Tea",
+            "Black Tea"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Shirmoi",
+        "description": "Shirmoi is a type of noodle soup made with thin noodles, meat, vegetables, and aromatic spices. It's a comforting and nourishing dish enjoyed throughout Uzbekistan.",
+        "price": 14.99,
+        "included_drinks": [
+            "Chal",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Kutabi",
+        "description": "Kutabi is a type of stuffed pancake filled with minced meat, herbs, and spices. It's cooked on a griddle until golden brown and served hot with yogurt or sour cream.",
+        "price": 12.75,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Palov",
+        "description": "Palov is a dish made with rice, meat, carrots, and onions, cooked together with spices. It's a staple of Uzbek cuisine and often served at weddings and celebrations.",
+        "price": 19.99,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Tashkent Somsa",
+        "description": "Tashkent Somsa is a type of savory pastry filled with minced meat, onions, and spices. It's baked until golden brown and served as a popular snack or appetizer.",
+        "price": 7.99,
+        "included_drinks": [
+            "Green Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Shashlik",
+        "description": "Shashlik is a skewered and grilled meat dish, often seasoned with spices and served with bread or rice. It's a favorite at outdoor gatherings and picnics.",
+        "price": 24.50,
+        "included_drinks": [
+            "Black Tea",
+            "Sour Cherry Juice"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Oshi Nahor",
+        "description": "Oshi Nahor is a traditional breakfast dish featuring rice served with a variety of toppings, such as meat, vegetables, and yogurt. It's a hearty and flavorful way to start the day.",
+        "price": 12.75,
+        "included_drinks": [
+            "Green Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Uzbek Pilaf",
+        "description": "Uzbek Pilaf is a variation of pilaf made with rice, meat, carrots, and spices. It's cooked in a large pot and often served as the main course for family gatherings and holidays.",
+        "price": 21.99,
+        "included_drinks": [
+            "Black Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Chuchvara",
+        "description": "Chuchvara are small dumplings filled with spiced meat and onions, similar to Russian pelmeni or Turkish manti. They're boiled and typically served with sour cream or yogurt.",
+        "price": 11.50,
+        "included_drinks": [
+            "Green Tea",
+            "Chal"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Baklava",
+        "description": "Baklava is a sweet pastry made with layers of filo dough, nuts, and honey or syrup. It's a popular dessert in Uzbekistan and other countries in the region.",
+        "price": 8.99,
+        "included_drinks": [
+            "Black Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Somsa",
+        "description": "Somsa is a type of Uzbek pastry filled with minced meat and onions, often flavored with spices like cumin and coriander. It's typically baked until golden brown and served hot.",
+        "price": 9.50,
+        "included_drinks": [
+            "Green Tea",
+            "Chal"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Halva",
+        "description": "Halva is a sweet treat made from ground sunflower seeds or sesame seeds mixed with sugar or honey. It's often served as a dessert or snack.",
+        "price": 6.50,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Pumpkin Samsa",
+        "description": "Pumpkin Samsa is a seasonal variation of the traditional Uzbek pastry, filled with spiced pumpkin and onions. It's a delicious and comforting treat during the autumn months.",
+        "price": 7.99,
+        "included_drinks": [
+            "Green Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Lagman",
+        "description": "Lagman is a noodle dish with stir-fried vegetables and meat, flavored with various spices and sauces. It's hearty and flavorful, often served as a main course.",
+        "price": 16.99,
+        "included_drinks": [
+            "Black Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Suzma",
+        "description": "Suzma is a creamy dairy product similar to cottage cheese, often served as a side dish or used in cooking. It's made by straining yogurt to remove the whey.",
+        "price": 5.50,
+        "included_drinks": [
+            "Ayran",
+            "Chal"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Pamidor Somsa",
+        "description": "Pamidor Somsa is a type of Uzbek pastry filled with a mixture of tomatoes, onions, and herbs. It's a refreshing and savory snack, especially during the summer months.",
+        "price": 8.75,
+        "included_drinks": [
+            "Green Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Somsa with Potato",
+        "description": "Somsa with Potato is a vegetarian variation of the traditional Uzbek pastry, filled with seasoned mashed potatoes and onions. It's a comforting and filling snack.",
+        "price": 6.99,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Plov with Chickpeas",
+        "description": "Plov with Chickpeas is a flavorful rice dish cooked with meat, carrots, onions, and chickpeas, seasoned with spices like cumin and coriander. It's a hearty and satisfying meal.",
+        "price": 18.50,
+        "included_drinks": [
+            "Green Tea",
+            "Sour Cherry Juice"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Gazpacho",
+        "description": "Gazpacho is a cold soup made with ripe tomatoes, peppers, cucumbers, onions, and garlic, seasoned with olive oil and vinegar. It's refreshing and perfect for hot summer days.",
+        "price": 9.99,
+        "included_drinks": [
+            "Mint Tea",
+            "Lemonade"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Shalgam",
+        "description": "Shalgam is a fermented turnip juice, often served as a refreshing beverage or used as a base for soups and stews. It has a tangy and slightly spicy flavor.",
+        "price": 4.50,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Kefir",
+        "description": "Kefir is a fermented dairy drink made with kefir grains, which are a combination of bacteria and yeast. It's tangy and slightly effervescent, often enjoyed for its probiotic benefits.",
+        "price": 3.99,
+        "included_drinks": [
+            "Green Tea",
+            "Chal"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Uzbek Kebab",
+        "description": "Uzbek Kebab is a variety of skewered and grilled meat dishes, often seasoned with spices and served with flatbread and sauces. It's a popular street food and barbecue option.",
+        "price": 22.99,
+        "included_drinks": [
+            "Black Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Baklava with Pistachios",
+        "description": "Baklava with Pistachios is a variation of the traditional sweet pastry, filled with layers of filo dough, pistachios, and honey or syrup. It's a decadent and indulgent dessert.",
+        "price": 10.50,
+        "included_drinks": [
+            "Green Tea",
+            "Sour Cherry Juice"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Mushroom Lagman",
+        "description": "Mushroom Lagman is a vegetarian version of the traditional Lagman dish, featuring stir-fried mushrooms, vegetables, and noodles seasoned with aromatic spices.",
+        "price": 15.75,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Uzbek Dumplings",
+        "description": "Uzbek Dumplings are small pockets of dough filled with meat, onions, and spices, similar to Russian pelmeni or Turkish manti. They are boiled and served with a side of sour cream or yogurt.",
+        "price": 12.99,
+        "included_drinks": [
+            "Green Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Mastava",
+        "description": "Mastava is a traditional Uzbek rice soup made with meat, rice, carrots, onions, and spices. It's a comforting and nourishing dish often enjoyed during cold weather.",
+        "price": 13.50,
+        "included_drinks": [
+            "Black Tea",
+            "Sour Cherry Juice"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Uzbek Noodle Salad",
+        "description": "Uzbek Noodle Salad is a refreshing salad made with noodles, vegetables, and herbs, dressed with a tangy vinaigrette. It's a light and flavorful dish perfect for summer.",
+        "price": 9.99,
+        "included_drinks": [
+            "Green Tea",
+            "Lemonade"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Pumpkin Pilaf",
+        "description": "Pumpkin Pilaf is a variation of the traditional Uzbek pilaf, where chunks of pumpkin are added to the rice along with meat, carrots, and onions. It adds a sweet and savory flavor to the dish.",
+        "price": 17.99,
+        "included_drinks": [
+            "Black Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Baklava with Walnuts",
+        "description": "Baklava with Walnuts is another variation of the classic sweet pastry, filled with layers of filo dough and crushed walnuts, then soaked in honey or syrup. It's a rich and decadent dessert.",
+        "price": 11.25,
+        "included_drinks": [
+            "Green Tea",
+            "Sour Cherry Juice"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Uzbek Flatbread",
+        "description": "Uzbek Flatbread, also known as non, is a staple in Uzbek cuisine. It's a round, flat bread baked in a tandoor oven and often served with meals or used to scoop up sauces and stews.",
+        "price": 6.50,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Chalop",
+        "description": "Chalop is a traditional Uzbek dish made with rice, vegetables, and herbs, often served with a side of yogurt or sour cream. It's a simple yet flavorful dish.",
+        "price": 8.75,
+        "included_drinks": [
+            "Green Tea",
+            "Kumis"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Fried Liver",
+        "description": "Fried Liver is a popular Uzbek appetizer or main dish, where thin slices of liver are seasoned and pan-fried until golden brown and tender. It's often served with onions and herbs.",
+        "price": 14.50,
+        "included_drinks": [
+            "Black Tea",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Uzbek Carrot Salad",
+        "description": "Uzbek Carrot Salad is a vibrant salad made with grated carrots, raisins, nuts, and spices, dressed with a tangy vinaigrette. It's a refreshing and colorful addition to any meal.",
+        "price": 7.99,
+        "included_drinks": [
+            "Green Tea",
+            "Chal"
+        ]
+    }
+]
