@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Margherita",
+        "description": "Pizza Margherita is a classic Italian pizza topped with tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil.",
+        "price": 12.99,
+        "included_drinks": [
+            "Cola",
+            "Mineral Water"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sushi Combo",
+        "description": "Sushi Combo includes a variety of sushi rolls, nigiri, and sashimi, served with soy sauce, pickled ginger, and wasabi. It's a traditional Japanese dish enjoyed worldwide.",
+        "price": 24.99,
+        "included_drinks": [
+            "Green Tea",
+            "Sake"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hamburger",
+        "description": "Hamburger is a sandwich consisting of a cooked beef patty placed inside a sliced bun, typically served with lettuce, tomato, onion, pickles, and condiments like ketchup and mustard.",
+        "price": 8.99,
+        "included_drinks": [
+            "Cola",
+            "Milkshake"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Pad Thai",
+        "description": "Pad Thai is a Thai stir-fried noodle dish made with rice noodles, tofu, shrimp or chicken, bean sprouts, peanuts, egg, and a flavorful sauce made from tamarind, fish sauce, and chili.",
+        "price": 15.50,
+        "included_drinks": [
+            "Thai Iced Tea",
+            "Coconut Water"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Croissant",
+        "description": "Croissant is a buttery, flaky pastry of Austrian origin, made of layered yeast-leavened dough. It's often enjoyed as a breakfast pastry or snack.",
+        "price": 3.50,
+        "included_drinks": [
+            "Coffee",
+            "Espresso"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Tacos",
+        "description": "Tacos are a traditional Mexican dish consisting of a tortilla filled with various ingredients such as seasoned meat, beans, cheese, lettuce, and salsa.",
+        "price": 10.99,
+        "included_drinks": [
+            "Margarita",
+            "Mexican Soda"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sushi Burrito",
+        "description": "Sushi Burrito is a fusion dish combining elements of sushi and burritos, with sushi rice, fish, vegetables, and other fillings wrapped inside a large seaweed sheet.",
+        "price": 14.75,
+        "included_drinks": [
+            "Green Tea",
+            "Sake"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Chicken Tikka Masala",
+        "description": "Chicken Tikka Masala is a popular Indian dish made with marinated and grilled chicken pieces served in a rich, creamy tomato-based curry sauce, flavored with Indian spices.",
+        "price": 18.99,
+        "included_drinks": [
+            "Lassi",
+            "Mango Juice"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Pasta Carbonara",
+        "description": "Pasta Carbonara is an Italian pasta dish made with spaghetti, eggs, grated cheese, pancetta, and black pepper. It's creamy, savory, and full of flavor.",
+        "price": 13.99,
+        "included_drinks": [
+            "Wine",
+            "Sparkling Water"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Pho",
+        "description": "Pho is a Vietnamese noodle soup consisting of broth, rice noodles, herbs, and meat (typically beef or chicken), garnished with lime, chili, and bean sprouts.",
+        "price": 11.50,
+        "included_drinks": [
+            "Vietnamese Iced Coffee",
+            "Herbal Tea"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Ramen",
+        "description": "Ramen is a Japanese noodle soup dish consisting of wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and topped with various ingredients like sliced pork, seaweed, and green onions.",
+        "price": 14.99,
+        "included_drinks": [
+            "Green Tea",
+            "Sake"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Lasagna",
+        "description": "Lasagna is a traditional Italian dish made with layers of wide flat pasta, cheese, meat sauce, and other ingredients such as vegetables and herbs, baked until golden and bubbly.",
+        "price": 16.50,
+        "included_drinks": [
+            "Red Wine",
+            "Sparkling Water"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Falafel Wrap",
+        "description": "Falafel Wrap is a Middle Eastern street food consisting of deep-fried chickpea balls or patties, served in a pita bread with lettuce, tomatoes, cucumbers, tahini sauce, and pickles.",
+        "price": 9.75,
+        "included_drinks": [
+            "Mint Tea",
+            "Lemonade"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Poke Bowl",
+        "description": "Poke Bowl is a Hawaiian dish featuring diced raw fish, typically tuna or salmon, served over rice and topped with various ingredients such as avocado, seaweed, cucumber, and soy sauce.",
+        "price": 17.25,
+        "included_drinks": [
+            "Coconut Water",
+            "Tropical Fruit Juice"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Paella",
+        "description": "Paella is a Spanish rice dish originating from the Valencia region, cooked with saffron-infused rice, seafood, meats like chicken and rabbit, vegetables, and spices.",
+        "price": 21.99,
+        "included_drinks": [
+            "Sangria",
+            "Spanish Wine"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Biryani",
+        "description": "Biryani is a South Asian mixed rice dish originating from the Indian subcontinent, made with basmati rice, spices, and meat (such as chicken, lamb, or beef), layered and cooked together to create a flavorful and aromatic dish.",
+        "price": 19.99,
+        "included_drinks": [
+            "Lassi",
+            "Mango Juice"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Goulash",
+        "description": "Goulash is a Hungarian stew made with beef, onions, peppers, and paprika, cooked until the meat is tender and the flavors are rich and hearty.",
+        "price": 15.50,
+        "included_drinks": [
+            "Hungarian Beer",
+            "Sparkling Water"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Moussaka",
+        "description": "Moussaka is a Greek casserole dish made with layers of eggplant, minced meat (usually lamb or beef), tomatoes, onions, and a creamy béchamel sauce, baked until golden and bubbly.",
+        "price": 18.50,
+        "included_drinks": [
+            "Ouzo",
+            "Greek Wine"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Pad See Ew",
+        "description": "Pad See Ew is a Thai stir-fried noodle dish made with wide rice noodles, meat (such as chicken, pork, or beef), Chinese broccoli, egg, and a sweet and savory soy-based sauce.",
+        "price": 13.99,
+        "included_drinks": [
+            "Thai Iced Tea",
+            "Coconut Water"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Miso Soup",
+        "description": "Miso Soup is a traditional Japanese soup made with dashi broth and miso paste, often containing ingredients like tofu, seaweed, mushrooms, and green onions.",
+        "price": 6.99,
+        "included_drinks": [
+            "Green Tea",
+            "Sake"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Moules Frites",
+        "description": "Moules Frites is a Belgian dish consisting of mussels cooked with onions, celery, and white wine, served with crispy French fries and mayonnaise.",
+        "price": 20.99,
+        "included_drinks": [
+            "Belgian Beer",
+            "Sparkling Water"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Chicken Adobo",
+        "description": "Chicken Adobo is a Filipino dish made with chicken marinated in vinegar, soy sauce, garlic, and spices, then simmered until tender and flavorful.",
+        "price": 14.75,
+        "included_drinks": [
+            "Calamansi Juice",
+            "Coconut Water"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Ceviche",
+        "description": "Ceviche is a Latin American dish made with raw fish or seafood marinated in citrus juices, such as lime or lemon, and seasoned with onions, peppers, cilantro, and chili peppers.",
+        "price": 16.50,
+        "included_drinks": [
+            "Pisco Sour",
+            "Agua de Jamaica"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Pierogi",
+        "description": "Pierogi are Polish dumplings filled with various ingredients, such as potatoes, cheese, meat, or fruit, boiled and then either fried or baked until golden and crispy.",
+        "price": 12.99,
+        "included_drinks": [
+            "Polish Beer",
+            "Mineral Water"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Baklava",
+        "description": "Baklava is a rich, sweet pastry made of layers of filo dough filled with chopped nuts and sweetened with syrup or honey. It's popular in many countries in the Middle East and Mediterranean region.",
+        "price": 18.99,
+        "included_drinks": [
+            "Turkish Coffee",
+            "Ayran"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Sauerbraten",
+        "description": "Sauerbraten is a German pot roast marinated in a mixture of vinegar, water, spices, and seasonings, then slow-cooked until tender and served with gravy and potatoes.",
+        "price": 21.50,
+        "included_drinks": [
+            "German Beer",
+            "Sparkling Water"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Kabsa",
+        "description": "Kabsa is a traditional Saudi Arabian rice dish made with long-grain rice, meat (such as chicken, lamb, or goat), vegetables, and aromatic spices like cardamom, cinnamon, and cloves.",
+        "price": 22.99,
+        "included_drinks": [
+            "Arabic Coffee",
+            "Mint Tea"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Fish and Chips",
+        "description": "Fish and Chips is a classic British dish consisting of battered and deep-fried fish (usually cod or haddock) served with thick-cut potato fries, often accompanied by tartar sauce and mushy peas.",
+        "price": 14.99,
+        "included_drinks": [
+            "English Ale",
+            "Cider"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Ratatouille",
+        "description": "Ratatouille is a French Provencal vegetable stew made with tomatoes, eggplant, zucchini, bell peppers, onions, garlic, and herbs, cooked until tender and fragrant.",
+        "price": 17.25,
+        "included_drinks": [
+            "French Wine",
+            "Sparkling Water"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Jollof Rice",
+        "description": "Jollof Rice is a popular West African dish made with rice cooked in a flavorful tomato-based sauce, often seasoned with onions, peppers, and spices, and served with meat or fish.",
+        "price": 16.75,
+        "included_drinks": [
+            "Palm Wine",
+            "Zobo Drink"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Korean BBQ",
+        "description": "Korean BBQ is a popular Korean dining experience where diners grill a variety of meats, such as beef, pork, and chicken, at their table, then wrap the grilled meat in lettuce leaves with rice, vegetables, and sauces.",
+        "price": 26.99,
+        "included_drinks": [
+            "Soju",
+            "Sikhye"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Empanadas",
+        "description": "Empanadas are savory pastries originating from Latin America, made with a filling of meat, cheese, vegetables, or sweet fillings, enclosed in pastry dough and baked or fried until golden and crispy.",
+        "price": 11.50,
+        "included_drinks": [
+            "Mate",
+            "Horchata"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Gyudon",
+        "description": "Gyudon is a Japanese rice bowl dish consisting of thinly sliced beef, onions, and soy sauce-based broth, served over a bowl of steamed rice and garnished with green onions.",
+        "price": 13.75,
+        "included_drinks": [
+            "Green Tea",
+            "Calpis"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Shawarma",
+        "description": "Shawarma is a Middle Eastern street food made with thinly sliced meat (often chicken, beef, or lamb) marinated in spices, roasted on a vertical spit, and served in a pita bread or wrap with vegetables and sauces.",
+        "price": 10.99,
+        "included_drinks": [
+            "Ayran",
+            "Pomegranate Juice"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Poutine",
+        "description": "Poutine is a Canadian dish originating from Quebec, made with French fries topped with cheese curds and smothered in gravy. It's a hearty and indulgent comfort food.",
+        "price": 9.99,
+        "included_drinks": [
+            "Maple Syrup Soda",
+            "Iced Coffee"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Bakso",
+        "description": "Bakso is an Indonesian meatball soup made with beef or chicken meatballs, noodles, tofu, vegetables, and a flavorful broth, often served with condiments like chili sauce and soy sauce.",
+        "price": 8.50,
+        "included_drinks": [
+            "Teh Botol",
+            "Es Campur"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Chimichanga",
+        "description": "Chimichanga is a deep-fried burrito originating from Mexican-American cuisine, typically filled with shredded meat, beans, cheese, and spices, then deep-fried until crispy.",
+        "price": 12.25,
+        "included_drinks": [
+            "Mexican Soda",
+            "Horchata"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Mofongo",
+        "description": "Mofongo is a Puerto Rican dish made with mashed fried plantains mixed with garlic, olive oil, and pork cracklings (chicharrón), formed into a ball or a mound, and served with broth or sauce.",
+        "price": 14.99,
+        "included_drinks": [
+            "Coquito",
+            "Piña Colada"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Kofta",
+        "description": "Kofta is a Middle Eastern and South Asian dish made with spiced ground meat (such as beef, lamb, or chicken) shaped into balls or cylinders and grilled or fried, often served with rice, salad, or flatbread.",
+        "price": 16.99,
+        "included_drinks": [
+            "Mint Tea",
+            "Rose Water"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Cevapi",
+        "description": "Cevapi is a traditional Balkan dish made with grilled minced meat (usually beef, pork, or lamb) shaped into small sausages, served with flatbread (somun), chopped onions, and ajvar sauce.",
+        "price": 17.50,
+        "included_drinks": [
+            "Rakija",
+            "Mineral Water"
+        ]
+    }
+]
